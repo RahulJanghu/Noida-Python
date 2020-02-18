@@ -1,0 +1,14 @@
+Q.1. Write a program to compute roots of a quadratic equation when coefficients a, b and c are known(entered by user). (Without using math module)
+
+Q.2. Find volume of a sphere using radius as input.
+
+Q.3. Count the  number of digits in a number. Example: 3454 has 4 digits.
+
+Q.4. Write a program that accepts two stings and outputs the concatenation of them.
+
+Q.5. Write a program that accepts a string and gives output string with all capital letters.
+
+Q.6. Write a program to that accepts a string s, an index number n and a character ‘c’. And outputs the string replaced with the character at the index number n. Example- ‘hello’ , 0 , ‘j’ ==> ‘jello’.
+(Hint2: You can try it by join function too by typecasting it to list)
+
+Q.7. Reverse a string. Example: 'Hey there' = 'ereht yeH'
